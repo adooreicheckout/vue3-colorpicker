@@ -1,7 +1,7 @@
 {
-  "name": "vue3-colorpicker",
+  "name": "@adooreicheckout/vue3-colorpicker",
   "version": "1.0.2",
-  "description": "A very beautiful color picker",
+  "description": "A very beautiful color picker [forked from vue3-colorpicker]",
   "private": false,
   "main": "dist/colorpicker.es.js",
   "module": "dist/colorpicker.es.js",
@@ -9,10 +9,10 @@
   "author": "aesoper",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aesoper101/vue3-colorpicker/issues"
+    "url": "https://github.com/adooreicheckout/vue3-colorpicker/issues"
   },
   "files": ["dist"],
-  "homepage": "https://github.com/aesoper101/vue3-colorpicker#readme",
+  "homepage": "https://github.com/adooreicheckout/vue3-colorpicker#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
