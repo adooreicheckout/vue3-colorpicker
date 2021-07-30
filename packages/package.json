@@ -1,0 +1,42 @@
+{
+  "name": "@adooreicheckout/vue3-colorpicker",
+  "version": "1.0.6",
+  "description": "A very beautiful color picker",
+  "main": "colorpicker.es.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adooreicheckout/vue3-colorpicker.git"
+  },
+  "keywords": [
+    "vue3-colorpicker",
+    "vue",
+    "colorpicker",
+    "chrome",
+    "chrome-color-picker",
+    "ele"
+  ],
+  "author": "aesoper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adooreicheckout/vue3-colorpicker/issues"
+  },
+  "homepage": "https://github.com/adooreicheckout/vue3-colorpicker#readme",
+  "dependencies": {
+    "@aesoper/normal-utils": "^0.1.5",
+    "@popperjs/core": "^2.6.0",
+    "body-scroll-lock": "^3.1.5",
+    "core-js": "^3.6.5",
+    "lodash.debounce": "^4.0.8",
+    "tinycolor2": "^1.4.2",
+    "vue": "^3.0.11",
+    "vue-class-component": "^8.0.0-rc.1",
+    "vue-router": "^4.0.6",
+    "vue3-normal-directive": "^0.1.2",
+    "vue3-storage": "^0.1.9"
+  }
+}
+

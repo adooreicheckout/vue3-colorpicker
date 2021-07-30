@@ -1,6 +1,6 @@
 {
   "name": "@adooreicheckout/vue3-colorpicker",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A very beautiful color picker [forked from vue3-colorpicker]",
   "private": false,
   "main": "dist/colorpicker.es.js",
@@ -11,7 +11,9 @@
   "bugs": {
     "url": "https://github.com/adooreicheckout/vue3-colorpicker/issues"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/adooreicheckout/vue3-colorpicker#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -26,6 +28,7 @@
     "pre": "cd dist && yarn link && cd .. && yarn link vue3-colorpicker"
   },
   "dependencies": {
+    "@adooreicheckout/vue3-colorpicker": "^1.0.0",
     "@aesoper/normal-utils": "^0.1.4",
     "@popperjs/core": "^2.6.0",
     "body-scroll-lock": "^3.1.5",
@@ -35,8 +38,10 @@
     "vue": "^3.0.0",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
+    "vue3-colorpicker": "^1.0.5",
     "vue3-normal-directive": "^0.1.1",
-    "vue3-storage": "^0.1.9"
+    "vue3-storage": "^0.1.9",
+    "yarn": "^1.22.11"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.5",
