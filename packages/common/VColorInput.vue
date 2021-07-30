@@ -98,7 +98,7 @@ import { defineComponent, PropType, ref, toRaw, watch } from "vue";
 import { Color, ColorAttrs, ColorInput } from "../color";
 import { ArrayUtils } from "@aesoper/normal-utils";
 
-const formatList = ["hex", "hsl", "rgb", "hsv"];
+const formatList = ["rgb", "hex"];
 
 export default defineComponent({
   name: "VColorInput",
