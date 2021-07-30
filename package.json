@@ -1,6 +1,6 @@
 {
   "name": "@adooreicheckout/vue3-colorpicker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A very beautiful color picker [forked from vue3-colorpicker]",
   "private": false,
   "main": "dist/colorpicker.es.js",
@@ -36,8 +36,7 @@
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.0-0",
     "vue3-normal-directive": "^0.1.1",
-    "vue3-storage": "^0.1.9",
-    "vue3-colorpicker": "^1.0.0"
+    "vue3-storage": "^0.1.9"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.5",
