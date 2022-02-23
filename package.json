@@ -1,6 +1,6 @@
 {
   "name": "@adooreicheckout/vue3-colorpicker",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A very beautiful color picker [forked from vue3-colorpicker]",
   "main": "colorpicker.es.js",
   "types": "index.d.ts",
